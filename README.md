@@ -17,3 +17,8 @@ Trabalhar com designs em um editor gráfico chamado Figma.
 Usar consultas de mídia para definir parâmetros para diferentes tamanhos de tela.
 Trabalhar de forma mais eficiente com o Git e a linha de comando.
 Lidar com roteiros incompletos e especificações de design que não têm muitos detalhes.
+
+
+# Link do deploy no GH Pages:
+
+https://felipealvarengapontua.github.io/web_project_homeland/

@@ -1,14 +1,13 @@
-body {
-  background-color: #2a2c2f;
+.page {
+  margin: 0 auto;
+  background-color: rgba(42, 44, 47, 1);
+  font-family: "Inter", arial, sans-serif;
+  font-size: 16px;
+  line-height: 20px;
 }
 
-.page {
-  min-width: 320px;
-  max-width: 1280px;
-  margin: 0 auto;
-  padding: 0;
-  border: 0;
-  box-sizing: border-box;
-  background-color: #2a2c2f;
-  font-family: "Inter";
+@media screen and (max-width: 720px) {
+  .page {
+    min-width: 362px;
+  }
 }

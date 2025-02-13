@@ -20,4 +20,4 @@ Lidar com roteiros incompletos e especificações de design que não têm muitos
 
 
 # Link do Projeto no GitHub
-https://github.com/felipealvarengapontua/web_project_homeland
+https://felipealvarengapontua.github.io/web_project_homeland/
